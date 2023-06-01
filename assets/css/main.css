@@ -50,6 +50,12 @@ table {
 	border-spacing: 0;
 }
 
+inline-logo {
+	font-size: 1.5em; /* Adjust the size of the logo */
+	margin-right: 10px; /* Add some spacing between the logo and the content */
+	vertical-align: middle; /* Align the logo vertically with the text */
+  }
+
 body {
 	-webkit-text-size-adjust: none;
 }
